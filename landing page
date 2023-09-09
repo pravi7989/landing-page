@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golden Paradise Restaurant</title>
+    <style>
+        /* Reset some default styles */
+        body, h1, h2, p, ul {
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Apply a background image to the entire page */
+        body {
+            background-image: url('image2.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Style the header section */
+        header {
+            background-color: black;
+            color: gold;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        /* Style the main content section */
+        .content {
+            padding: 40px;
+            background-color: rgba(255, 255, 255, 0.8);
+            margin: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+
+        h2 {
+            color: #333;
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            color: #555;
+            font-size: 16px;
+        }
+
+        /* Style the menu section */
+        .menu {
+            margin-top: 20px;
+        }
+
+        /* Style the footer section */
+        footer {
+            background-color: peachpuff;
+            padding: 24px;
+            text-align: center;
+            color: black;
+        }
+
+        /* Add more CSS styles as needed */
+
+        /* Style the images */
+        .image-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 20px;
+        }
+
+        .image {
+            max-width: 100%;
+            height: auto;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Golden Paradise</h1>
+        <p>Welcome to the finest dining experience</p>
+    </header>
+
+    <div class="content">
+        <div GOOD FOOD = GOOD MOOD></div>
+        <div class="menu">
+            <!-- Add your menu items here -->
+            <p>GOOD FOOD = GOOD MOOD</p>
+            <div font-size:20px></div>
+            </div colour : black>
+            <!-- Add more menu items as needed -->
+        </div>
+
+        <!-- Image containers -->
+        <div class="image-container">
+            <img src="image.1.jpg" alt="Image 1" class="image">
+            <img src="image.jpg" alt="Image 2" class="image">
+        </div>
+    </div>
+
+    <footer>
+        <p>Contact us at: 6300xxxx22</p>
+    </footer>
+</body>
+</html>
